@@ -13,5 +13,6 @@ public class HelloGit {
         System.out.println(" master test " );
         System.out.println("Hello World!!!  Hello Git!!!     hot-fix   blue" );
         System.out.println(" blue test" );
+        System.out.println(" blue test" );
     }
 }
