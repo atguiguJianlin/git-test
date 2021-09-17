@@ -15,5 +15,6 @@ public class HelloGit {
         System.out.println(" blue test" );
         System.out.println(" blue test" );
         System.out.println(" 使用SSH协议来push代码 " );
+        System.out.println(" 在github中手动修改代码 " );
     }
 }
