@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("Hello World!!!  Hello Git!!!");
         System.out.println("Hello World!!!  Hello Git!!!");
         System.out.println("Hello World!!!  Hello Git!!!     hot-fix" );
+        System.out.println("Hello World!!!  Hello Git!!!     hot-fix" );
     }
 }
