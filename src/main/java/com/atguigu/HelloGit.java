@@ -14,5 +14,6 @@ public class HelloGit {
         System.out.println("Hello World!!!  Hello Git!!!     hot-fix   blue" );
         System.out.println(" blue test" );
         System.out.println(" blue test" );
+        System.out.println(" 使用SSH协议来push代码 " );
     }
 }
